@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756421841,
+      "updated": 1756421867,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -126,14 +126,14 @@
       "id": "item-f93328fb-ebbb-4d3a-a9c7-4cd7d1616ae7",
       "indent": 0,
       "location": "pages/item-f93328fb-ebbb-4d3a-a9c7-4cd7d1616ae7/index.html",
-      "slug": "page/page-2",
+      "slug": "guides/macos",
       "order": 2,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
       "title": "macOS Setup",
       "description": "\n",
       "metadata": {
         "created": 1756418331,
-        "updated": 1756418359,
+        "updated": 1756421867,
         "images": {},
         "videos": {},
         "published": true,

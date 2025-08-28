@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756416124,
+      "updated": 1756416159,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -49,11 +49,11 @@
       "slug": "welcome",
       "order": 0,
       "parent": null,
-      "title": "Welcome to cyber-362-hax",
+      "title": "Welcome",
       "description": "Welcome to the HAXsite for CYBER 362, Section 002! This course teaches fundamental data-driven cybersecurity analytics skills with Python, Splunk, and other tools. In particular, students will learn ",
       "metadata": {
         "created": 1756409833,
-        "updated": 1756415907,
+        "updated": 1756416159,
         "published": true,
         "hideInMenu": false,
         "locked": false,

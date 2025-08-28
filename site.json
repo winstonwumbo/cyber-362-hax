@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756415907,
+      "updated": 1756416124,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,13 +69,17 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Guides",
+      "description": "Topics\n",
       "metadata": {
         "created": 1756415920,
-        "updated": 1756415920,
-        "images": [],
-        "videos": []
+        "updated": 1756416124,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

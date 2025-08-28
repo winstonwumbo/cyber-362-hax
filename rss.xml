@@ -6,24 +6,8 @@
   <description>own course</description>
   <copyright>Copyright (C) 2025 </copyright>
   <language>en-us</language>
-  <lastBuildDate>1970-01-21T07:53:29.834Z</lastBuildDate>
+  <lastBuildDate>1970-01-21T07:53:35.907Z</lastBuildDate>
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
-  <item>
-    <title>Welcome to cyber-362-hax</title>
-    <link>
-    /item-acc21c20-6a64-4edf-a1d1-81696c139528
-    </link>
-    <description>
-        <![CDATA[ 
-<p>Welcome to the HAXsite for <b>CYBER 362, Section 002</b>! This course teaches fundamental data-driven cybersecurity analytics skills with Python, Splunk, and other tools. In particular, students will learn how to handle large quantities of "dirty" real-world data. Visit here for course info, lab instructions, and guides on tools like Python and VS Code!</p>
- ]]>
-    </description>
-    <category></category>
-    <guid>
-    /item-acc21c20-6a64-4edf-a1d1-81696c139528
-    </guid>
-    <pubDate>1970-01-21T07:53:29.833Z</pubDate>
-  </item>
 </channel>
 </rss>

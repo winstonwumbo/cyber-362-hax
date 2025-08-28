@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756418231,
+      "updated": 1756418310,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -107,15 +107,19 @@
       "indent": 0,
       "location": "pages/item-92d0d9c7-6396-4184-8e40-aaada5a7d7f3/index.html",
       "slug": "page/page-1",
-      "order": 0,
+      "order": 1,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
-      "title": "Page",
-      "description": "",
+      "title": "Windows Setup",
+      "description": "\nHeading\n",
       "metadata": {
         "created": 1756418243,
-        "updated": 1756418243,
-        "images": [],
-        "videos": []
+        "updated": 1756418310,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

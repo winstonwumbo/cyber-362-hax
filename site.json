@@ -2,25 +2,43 @@
   "id": "859a1fb4-27fc-41fa-a724-4debd20351a1",
   "title": "cyber-362-hax",
   "author": "",
-  "description": "",
+  "description": "own course",
   "license": "by-sa",
   "metadata": {
     "author": {},
     "site": {
+      "name": "cyber-362-hax",
+      "logo": "assets/banner.jpg",
       "settings": {
-        "lang": "en",
+        "lang": "en-US",
+        "publishPagesOn": true,
         "canonical": true
       },
-      "name": "cyber-362-hax",
-      "domain": null,
-      "created": 1756409833,
-      "updated": 1756409833
+      "created": 1756409834,
+      "updated": 1756409834,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
     },
     "theme": {
-      "variables": {}
+      "element": "polaris-flex-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+      "name": "Polaris - Flex",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "variables": {
+        "icon": "av:library-add",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
     },
     "node": {
       "fields": {}
+    },
+    "build": {
+      "version": "11.0.0",
+      "structure": "course",
+      "type": "own"
     }
   },
   "items": [

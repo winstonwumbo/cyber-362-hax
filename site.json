@@ -81,6 +81,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-2b8e35af-e79e-434b-9f18-c55e2a22e4d0",
+      "indent": 0,
+      "location": "pages/item-2b8e35af-e79e-434b-9f18-c55e2a22e4d0/index.html",
+      "slug": "page/page",
+      "order": 0,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1756418137,
+        "updated": 1756418137,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

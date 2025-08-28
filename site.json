@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756421867,
+      "updated": 1756421895,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -146,14 +146,14 @@
       "id": "item-cf87fc3b-5824-4c31-9521-20e4417729c9",
       "indent": 0,
       "location": "pages/item-cf87fc3b-5824-4c31-9521-20e4417729c9/index.html",
-      "slug": "page/page-3",
+      "slug": "guides/linux",
       "order": 3,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
       "title": "Linux Setup",
       "description": "\n",
       "metadata": {
         "created": 1756418402,
-        "updated": 1756418425,
+        "updated": 1756421895,
         "images": {},
         "videos": {},
         "published": true,

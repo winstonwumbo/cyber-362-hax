@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756416159,
+      "updated": 1756418231,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -89,13 +89,17 @@
       "slug": "page/page",
       "order": 0,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
-      "title": "Page",
-      "description": "",
+      "title": "CLI Crash Course",
+      "description": "\n",
       "metadata": {
         "created": 1756418137,
-        "updated": 1756418137,
-        "images": [],
-        "videos": []
+        "updated": 1756418231,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

@@ -192,6 +192,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-8f8af739-552c-4153-a6e6-572fbe4efce8",
+      "indent": 0,
+      "location": "pages/item-8f8af739-552c-4153-a6e6-572fbe4efce8/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1756493438,
+        "updated": 1756493438,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

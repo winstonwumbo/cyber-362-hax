@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "readme": "",
+  "modules": [
+    {
+      "kind": "javascript-module",
+      "path": "src/custom-cyber-362-hax-theme.js",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "`CustomCyber362HaxTheme`\n`CustomCyber362HaxTheme based on modern flex design system`\n`This theme is an example of extending an existing theme component`",
+          "name": "CustomCyber362HaxTheme",
+          "members": [
+            {
+              "kind": "method",
+              "name": "renderHeaderSlot",
+              "description": "Overload methods for customization of slots from the base class"
+            },
+            {
+              "kind": "method",
+              "name": "renderFooterContactInformation"
+            },
+            {
+              "kind": "method",
+              "name": "renderFooterSecondarySlot"
+            },
+            {
+              "kind": "method",
+              "name": "renderFooterPrimarySlot"
+            },
+            {
+              "kind": "field",
+              "name": "tag",
+              "static": true,
+              "description": "Store the tag name to make it easier to obtain directly.",
+              "readonly": true
+            }
+          ],
+          "superclass": {
+            "name": "PolarisFlexTheme",
+            "package": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js"
+          },
+          "tagName": "custom-cyber-362-hax-theme",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "custom-element-definition",
+          "declaration": {
+            "name": "CustomCyber362HaxTheme",
+            "module": "src/custom-cyber-362-hax-theme.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "CustomCyber362HaxTheme",
+          "declaration": {
+            "name": "CustomCyber362HaxTheme",
+            "module": "src/custom-cyber-362-hax-theme.js"
+          }
+        }
+      ]
+    }
+  ]
+}

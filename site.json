@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756482724,
+      "updated": 1756493150,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -166,16 +166,20 @@
       "id": "item-b8f813b3-0167-4e67-96b2-7d06912541cd",
       "indent": 0,
       "location": "pages/item-b8f813b3-0167-4e67-96b2-7d06912541cd/index.html",
-      "slug": "page",
-      "order": 1,
+      "slug": "about",
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "About HAX",
+      "description": "\n",
       "metadata": {
         "created": 1756493119,
-        "updated": 1756493119,
-        "images": [],
-        "videos": []
+        "updated": 1756493150,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

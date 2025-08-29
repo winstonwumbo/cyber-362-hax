@@ -59,7 +59,17 @@
         "locked": false,
         "readtime": 1,
         "videos": {},
-        "images": {}
+        "images": {},
+        "files": [
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/data-analytics.jpg",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/data-analytics.jpg",
+            "url": "files/data-analytics.jpg",
+            "type": "image/jpeg",
+            "name": "data-analytics.jpg",
+            "size": 687875
+          }
+        ]
       }
     },
     {

@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756493339,
+      "updated": 1756493500,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -197,16 +197,20 @@
       "id": "item-8f8af739-552c-4153-a6e6-572fbe4efce8",
       "indent": 0,
       "location": "pages/item-8f8af739-552c-4153-a6e6-572fbe4efce8/index.html",
-      "slug": "page",
+      "slug": "syllabus",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Syllabus",
+      "description": "\nHeading\n",
       "metadata": {
         "created": 1756493438,
-        "updated": 1756493438,
-        "images": [],
-        "videos": []
+        "updated": 1756493500,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

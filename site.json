@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756767248,
+      "updated": 1756768534,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -98,13 +98,13 @@
       "description": "\n",
       "metadata": {
         "created": 1756418137,
-        "updated": 1756767248,
+        "updated": 1756768534,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 2
       }
     },
     {

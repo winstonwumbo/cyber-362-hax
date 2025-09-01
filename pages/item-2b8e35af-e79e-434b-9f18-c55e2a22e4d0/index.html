@@ -2,8 +2,11 @@
 <h2 id="header-fb58e0f3-2638-c180-4a2c-0a4eedfb3bc2">Navigating the Command Line</h2>
 <p>The <b>command line interface (CLI)</b>, or <b>terminal</b>, is a powerful, text-based environment for interacting with your computer. <b>CLI</b> tools are extremely common in the IT industry across development, cybersecurity, and more. The <b>CLI</b> has remained a core component of every major operating system for decades. Becoming familiar with such tools will be an incredibly valuable, long-lasting skill. Although you may not be familiar with the term <b>CLI</b>, you've likely heard of some of the following software (which are all <b>CLIs</b>!):</p>
 <ul><li><b>Windows</b>: Command Prompt, PowerShell</li>
+
 <li><b>macOS</b>: Terminal</li>
+
 <li><b>Linux</b>: Konsole, GNOME Console</li>
+
 </ul>
 <p>The most common action that you'll perform in the command line will likely be <b>1. moving between folders</b> and <b>2. listing folder contents</b>.</p>
 <p>To move between folders, you will use the same&#160;<b>cd </b>command on every operating system. <b>cd </b>is short for "Change Directory." Entering <b>cd </b>by itself (with no other text) will automatically bring you back to your home folder (<b>/home/&lt;username&gt; </b>on macOS/Linux, <b>C:\Users\&lt;username&gt;</b> on WIndows). You can use another command <b>pwd </b>to confirm where you're located. <b>pwd </b>is short for "Print Working Directory."</p>
@@ -11,4 +14,24 @@
 <code-sample type="html"><template preserve-content="preserve-content">$ cd
 
 $ pwd
-/home/exampleusr</template></code-sample>
+/home/exampleuser</template></code-sample>
+<p>To move to a specific location, you can use a <b>relative path </b>or an <b>absolute path</b>. A <b>relative path</b>&#160;starts looking for the target folder from your current folder. This means that you don't need to fill in the <b>file path </b>(think of this as the&#160;folder sequence) from above your current folder. An <b>absolute path </b>is the full sequence of folders that takes you from the start of your hard drive (<b>/</b>&#160;on macOS/Linux, <b>C: </b>on Windows) to the targeted folder.</p>
+<code-sample type="html"><template preserve-content="preserve-content">$ cd ./Documents <!-- Relative Path -->
+$ pwd
+/home/exampleuser/Documents
+
+$ cd Documents <!-- Relative Path, you can either start with './' or simply the name of the folder -->
+$ pwd
+/home/exampleuser/Documents
+
+$ cd /home/exampleuser/Documents <!-- Absolute Path -->
+$ pwd
+/home/exampleuser/Documents</template></code-sample>
+<p>Sometimes you may need to return back to a folder above your current location. To go backwards without typing an <b>absolute path</b>, the <b>cd </b>command accepts a sequence of characters (<b>../</b>) that symbolize "return up once."</p>
+<code-sample type="html"><template preserve-content="preserve-content">$ cd ../ <!-- Go up 1 folder -->
+$ pwd
+/home/exampleuser
+
+$ cd ../../ <!-- Go up 2 folders -->
+$ pwd
+/home</template></code-sample>

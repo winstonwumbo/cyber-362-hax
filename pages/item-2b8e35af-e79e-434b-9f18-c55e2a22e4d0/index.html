@@ -4,10 +4,13 @@
 <ul><li><b>Windows</b>: Command Prompt, PowerShell</li>
 
 
+
 <li><b>macOS</b>: Terminal</li>
 
 
+
 <li><b>Linux</b>: Konsole, GNOME Console</li>
+
 
 
 </ul>
@@ -46,22 +49,22 @@ Desktop/     Downloads/     Pictures/   Videos/
 Documents/   Music/         Public/
 
 $ dir <!-- from C:\Users\exampleuser -->
-Volume in drive C has no label.
+ Volume in drive C has no label.
  Volume Serial Number is A1B2-C3D4
 
  Directory of C:\Users\exampleuser
 
-09/02/2025  04:50 AM    <dir>          .
-09/02/2025  04:50 AM    <dir>          ..
-08/29/2025  08:30 AM    <dir>          Desktop
-09/01/2025  02:00 PM    <dir>          Documents
-09/02/2025  09:30 AM    <dir>          Downloads
-08/29/2025  08:30 AM    <dir>          Pictures
-08/29/2025  08:30 AM    <dir>          Public
-08/29/2025  08:30 AM    <dir>          Templates
-08/29/2025  08:30 AM    <dir>          Videos
+09/02/2025  04:50 AM    DIR          .
+09/02/2025  04:50 AM    DIR          ..
+08/29/2025  08:30 AM    DIR          Desktop
+09/01/2025  02:00 PM    DIR          Documents
+09/02/2025  09:30 AM    DIR          Downloads
+08/29/2025  08:30 AM    DIR          Pictures
+08/29/2025  08:30 AM    DIR          Public
+08/29/2025  08:30 AM    DIR          Templates
+08/29/2025  08:30 AM    DIR          Videos
                0 File(s)              0 bytes
-               9 Dir(s)   400,000,000,000 bytes free</dir></dir></dir></dir></dir></dir></dir></dir></dir></template></code-sample>
+               9 Dir(s)   400,000,000,000 bytes free</template></code-sample>
 <p>Sometimes you may need to view hidden folders or find detailed information like file size. This can be achieved with something called a <b>CLI flag</b>. Many <b>CLI </b>tools allow you to pass in special options to change behaviors.&#160;</p>
 <p>For the <b>ls </b>command, the correct sequence would be <b>ls -lsa</b>. For the <b>dir </b>command, the correct sequence would be <b>dir /a /q</b>. Each of these makes a request for a more advanced output.</p>
 <code-sample type="html"><template preserve-content="preserve-content">$ ls -lsa
@@ -77,18 +80,18 @@ total 52
  0 drwxr-xr-x. 1 exampleuser exampleuser     0 Jun 20 13:06 Desktop/
  0 drwxr-xr-x. 1 exampleuser exampleuser  6788 Aug 29 12:35 Documents/
 
- $ dir /q /a
-Volume in drive C has no label.
+$ dir /q /a
+ Volume in drive C has no label.
  Volume Serial Number is A1B2-C3D4
 
  Directory of C:\Users\exampleuser
 
-09/02/2025  04:50 AM    <dir>          NT AUTHORITY\SYSTEM          .
-09/02/2025  04:50 AM    <dir>          NT AUTHORITY\SYSTEM          ..
-08/29/2025  08:30 AM    <junction>     DESKTOP-ABC123\exampleuser   AppData
-08/29/2025  08:30 AM    <dir>          DESKTOP-ABC123\exampleuser   Desktop
-09/01/2025  02:00 PM    <dir>          DESKTOP-ABC123\exampleuser   Documents
-09/02/2025  09:30 AM    <dir>          DESKTOP-ABC123\exampleuser   Downloads
-08/29/2025  08:30 AM    <dir>          DESKTOP-ABC123\exampleuser   Pictures
+09/02/2025  04:50 AM    DIR          NT AUTHORITY\SYSTEM          .
+09/02/2025  04:50 AM    DIR          NT AUTHORITY\SYSTEM          ..
+08/29/2025  08:30 AM    JUNCTION     DESKTOP-ABC123\exampleuser   AppData
+08/29/2025  08:30 AM    DIR          DESKTOP-ABC123\exampleuser   Desktop
+09/01/2025  02:00 PM    DIR          DESKTOP-ABC123\exampleuser   Documents
+09/02/2025  09:30 AM    DIR          DESKTOP-ABC123\exampleuser   Downloads
+08/29/2025  08:30 AM    DIR          DESKTOP-ABC123\exampleuser   Pictures
                0 File(s)              0 bytes
-               7 Dir(s)   400,000,000,000 bytes free</dir></dir></dir></dir></junction></dir></dir></template></code-sample>
+               7 Dir(s)   400,000,000,000 bytes free</template></code-sample>

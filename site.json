@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756826190,
+      "updated": 1756830371,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -118,7 +118,7 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756418243,
-        "updated": 1756791558,
+        "updated": 1756830371,
         "images": {},
         "videos": {},
         "published": true,
@@ -317,6 +317,14 @@
             "type": "image/png",
             "name": "Screenshot-From-2025-09-02-01-38-02.png",
             "size": 53166
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-12-23-00_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-12-23-00_1.png",
+            "url": "files/Screenshot-From-2025-09-02-12-23-00_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-12-23-00_1.png",
+            "size": 45113
           }
         ]
       }
@@ -332,7 +340,7 @@
       "description": "\n",
       "metadata": {
         "created": 1756418331,
-        "updated": 1756826190,
+        "updated": 1756830260,
         "images": {},
         "videos": {},
         "published": true,
@@ -499,6 +507,14 @@
             "type": "image/png",
             "name": "Screenshot-From-2025-09-02-01-29-46_1.png",
             "size": 30297
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-12-23-00.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-12-23-00.png",
+            "url": "files/Screenshot-From-2025-09-02-12-23-00.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-12-23-00.png",
+            "size": 45113
           }
         ]
       }

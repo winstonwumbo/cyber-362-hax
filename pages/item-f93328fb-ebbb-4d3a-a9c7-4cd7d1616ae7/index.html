@@ -4,52 +4,92 @@
 <ol><li>Download Python from the official site:&#160;<a href="https://www.python.org/downloads/macos/">python.org</a></li>
 
 
+
 <li>Select <strong>Download macOS 64-bit universal installer</strong></li>
+
 
 
 <img src="files/Screenshot-From-2025-09-02-10-18-47.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 400px; height: 240px;"><li>Select <strong>python-3.13.7-macos11.pkg</strong> from the <strong>Downloads</strong> folder in Finder</li>
 
+
 <li>Complete the <b>Install Python </b>dialogue with <b>default</b>&#160;options</li>
+
 
 <li>Visit the <b>/Applications/Python 3.13/</b>&#160;folder in Finder</li>
 
+
 <li>Run the script file&#160;<b>Install Certificates.command</b></li>
+
 
 <img src="files/mac_installer_07_applications.png" loading="lazy" style="width: 800px; height:440px;"><li>Open <b>Terminal</b></li>
 
+
 <li>Test <b>Python </b>by entering <b>python --version</b></li>
 
+
 <li>If the version number appears, then <b>Python </b>has been successfully installed!</li>
+
 
 <img src="files/Screenshot-From-2025-09-02-10-28-24.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 400px; height: 200px;">
 </ol>
 <h2 id="header-db5f80ad-38ba-3249-66f5-31122bae4b4b">Install Conda</h2>
 <ol><li>Visit the official Anaconda website: <a href="https://www.anaconda.com/download" target="_blank">anaconda.com</a>, select <strong>Skip Registration</strong></li>
 
+
 <img src="files/Screenshot-From-2025-09-01-17-23-24_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 400px;"><li>Select <b>64-Bit (Apple silicon) Graphical Installer </b>&#160;or <b>64-Bite (Intel chip) Graphical Installer </b>under <b>Mac - Python 3.13</b>, the correct option depends on your MacBook model</li>
+
 
 <img src="files/Screenshot-From-2025-09-02-10-35-02.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 400px;"><li>Select <b>Miniconda3-latest-MACOSX-&lt;model type&gt;.pkg </b>from your <b>Downloads </b>folder iin Finder</li>
 
+
 <li>Complete the <b>Install Miniconda3 20205.06-1</b>&#160;dialogue with <b>default </b>options</li>
+
 
 <li>Open <b>Terminal</b></li>
 
+
 <li><span>Test <b>Conda </b>by entering <b>conda --version</b></span></li>
+
 
 <li>If the version number appears, then Conda has been successfully installed!</li><img src="files/Screenshot-From-2025-09-02-10-47-04.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 400px; height: 100px;">
 </ol>
 <h2 id="header-3df328a7-b94f-2f77-d2bd-3a7c03332776">Install and Configure VS Code</h2>
 <ol><li>Visit the official Visual Studio Code website: <a href="https://code.visualstudio.com/" target="_blank">code.visualstudio.com</a></li>
 
+
 <li>Visit the <b>Downloads </b>page, select <b>Mac - macOS 11.0+</b></li>
+
 <li><img src="files/Screenshot-From-2025-09-02-10-51-55.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 400px;"><span>Select <b>VSCode-darwin-universal.zip </b>from your <b>Downloads </b>folder in Finder</span></li>
+
 <li>When the <b>ZIP </b>file uncompresses, move <b>Visual Studio Code.app </b>to your <b>Applications </b>folder</li>
+
 <li>Open <b>VS Code </b>by double-clicking the <b>.app</b>&#160;file, then pin <b>VS Code </b>to your dock</li>
+
 <li>In VS Code, open the <b>Command Palette (Cmd+Shift+P)</b></li>
+
 <li>Enter <b>shell command</b>, then select <b>Shell Command: Install 'code' command in PATH</b></li>
+
 <li><img src="files/Screenshot-From-2025-09-02-10-58-44.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 80px;"><span>Select the <b>Extensions </b>icon on the left sidebar, then search for <b>Python </b>in the <b>Extensions Marketplace</b></span></li>
+
 <li>Install the <b>Python </b>extension pack</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-20-22_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 400px;"><li>Search for <b>Jupyter </b>in the <b>Extensions Marketplace</b>, then install the <b>Jupyter </b>extension pack</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-31-18_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 400px;">
 
 </ol>
+<h2 id="header-e6d45bd5-735c-7775-0b12-a3b14ca70d05">Test Jupyter Notebooks</h2>
+<ol><li>Create a <b>CYBER 362</b> folder to store assignments in Finder (Suggestion: <b>Documents/Cyber362</b>), open <b>VS Code</b> in this folder</li>
+<li>Create a temporary file named <b>test.py</b> in this folder, enter the text <b>print("Hello World!")</b> and save the file</li>
+<img src="files/Screenshot-From-2025-09-02-00-53-31_1.png" loading="lazy" style="width: 900px; height: 180px;" data-border-radius="md" data-border="sm"><li>Select the <b>Run Python File</b> button</li>
+<li>If everything was installed successfully, a <b>Hello World!</b> message will appear in your terminal!</li>
+<img src="files/Screenshot-From-2025-09-02-00-57-21_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 250px;"><li>Now let's test <b>Jupyter</b> with <b>Conda</b>! Close your current terminal window, then select the <b>Python 3.13</b> button at the bottom right of <b>VS Code</b></li>
+<li>Select the <b>base (3.13.5) Conda</b> environment, this will change the <b>Python Interpreter</b> that VS Code is using</li>
+<img src="files/Screenshot-From-2025-09-02-01-38-02_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 700px; height: 240px;"><li>Select <b>Terminal &gt; New Terminal</b>, then confirm that <b>conda activate base</b> appears in the new terminal window</li>
+<img src="files/Screenshot-From-2025-09-02-01-09-48_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 400px;"><li>Enter <b>conda install jupyter</b> to download all the necessary Python packages for using <b>Jupyter Notebooks</b></li>
+<img src="files/Screenshot-From-2025-09-02-01-19-01_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 400px;"><li>Create another temporary file named <b>test.ipynb</b>, this is the file extension for <b>Jupyter Notebooks</b></li>
+<li>Select the <b>Select Kernel</b> button on the right side of your notebook, then select <b>Python Environments</b></li>
+<img src="files/Screenshot-From-2025-09-02-01-22-45_1.png" loading="lazy" style="width: 640px; height: 180px;" data-border-radius="md" data-border="sm"><img src="files/Screenshot-From-2025-09-02-01-25-34_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 200px;"><li>Select <b>base (Python 3.13.5) Conda Env</b></li>
+<img src="files/Screenshot-From-2025-09-02-01-27-17_1.png" loading="lazy" style="width: 900px; height: 180px;" data-border-radius="md" data-border="sm"><li>Select the <b>+ Code</b> button, then enter <b>print("Hello World!")</b> into the Jupyter Notebook cell</li>
+<img src="files/Screenshot-From-2025-09-02-01-28-39_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 700px; height: 180px;"><li>If everything was successfully installed, the message <b>Hello World!</b> will appear below!</li>
+<img src="files/Screenshot-From-2025-09-02-01-29-46_1.png" loading="lazy" style="width: 700px; height: 180px;" data-border-radius="md" data-border="sm"></ol>

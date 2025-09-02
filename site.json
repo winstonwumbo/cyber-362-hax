@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756786267,
+      "updated": 1756791558,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -118,13 +118,13 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756418243,
-        "updated": 1756786267,
+        "updated": 1756791558,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1,
+        "readtime": 2,
         "files": [
           {
             "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-08-29-16-34-16.png",

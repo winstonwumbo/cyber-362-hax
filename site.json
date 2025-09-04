@@ -325,6 +325,14 @@
             "type": "image/png",
             "name": "Screenshot-From-2025-09-02-12-23-00_1.png",
             "size": 45113
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/anaconda-path.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/anaconda-path.png",
+            "url": "files/anaconda-path.png",
+            "type": "image/png",
+            "name": "anaconda-path.png",
+            "size": 65424
           }
         ]
       }

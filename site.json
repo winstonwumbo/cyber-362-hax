@@ -573,6 +573,14 @@
             "type": "image/png",
             "name": "setup-copilot-status-bar.png",
             "size": 53086
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/setup-copilot-sign-in.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/setup-copilot-sign-in.png",
+            "url": "files/setup-copilot-sign-in.png",
+            "type": "image/png",
+            "name": "setup-copilot-sign-in.png",
+            "size": 107627
           }
         ]
       }

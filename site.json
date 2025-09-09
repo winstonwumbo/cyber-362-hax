@@ -548,6 +548,22 @@
       }
     },
     {
+      "id": "item-142acfd5-f889-483f-98d0-0e51714135e8",
+      "indent": 0,
+      "location": "pages/item-142acfd5-f889-483f-98d0-0e51714135e8/index.html",
+      "slug": "guides/page",
+      "order": 4,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1757421396,
+        "updated": 1757421396,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-b8f813b3-0167-4e67-96b2-7d06912541cd",
       "indent": 0,
       "location": "pages/item-b8f813b3-0167-4e67-96b2-7d06912541cd/index.html",

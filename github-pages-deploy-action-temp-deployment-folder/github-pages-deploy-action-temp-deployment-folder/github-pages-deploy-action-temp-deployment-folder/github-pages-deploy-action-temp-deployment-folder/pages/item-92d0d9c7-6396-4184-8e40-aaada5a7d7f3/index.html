@@ -12,7 +12,9 @@
 
 
 
+
 <li>Select&#160;<b>Download Windows installer (64-bit)</b></li>
+
 
 
 
@@ -30,7 +32,9 @@
 
 
 
+
 <img src="files/Screenshot-From-2025-09-01-17-04-26.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 500px;"><li><b>Important</b>: Select the checkbox for <b>Add python.exe to PATH</b>, this allows your terminal to use the standard&#160;<b>python </b>command</li>
+
 
 
 
@@ -44,7 +48,9 @@
 
 
 
+
 <li>Open either <b>Command Prompt</b>&#160;or <b>PowerShell </b><span>from the Start Menu</span></li>
+
 
 
 
@@ -58,7 +64,9 @@
 
 
 
+
 <li><span>If the version number appears, then <b>Python</b> has been successfully installed!</span></li>
+
 
 
 
@@ -77,7 +85,9 @@
 
 
 
+
 <img src="files/Screenshot-From-2025-09-01-17-23-24.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 400px;"><li>Select <b>64-Bit Graphical Installer </b>under <b>Windows - Python 3.13</b></li>
+
 
 
 
@@ -89,7 +99,9 @@
 
 
 
+
 <li>Select <b>Just Me (recommended) </b>during the <b>Select Installation Type </b>step</li>
+
 
 
 
@@ -99,7 +111,9 @@
 
 
 
+
 <li>Open <b>Anaconda Prompt </b>from the Start Menu</li>
+
 
 
 
@@ -108,7 +122,9 @@
 
 
 
+
 <li><span>If the version number appears, then <b>Conda</b> has been successfully installed!</span></li>
+
 
 
 
@@ -123,7 +139,9 @@
 
 
 
+
 <li>Select <b>Download for Windows</b></li>
+
 
 
 
@@ -132,32 +150,55 @@
 <img src="files/Screenshot-From-2025-09-01-18-13-29.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 400px;"><li>Select <b>VSCodeUserSetup-x64-1.103.2.exe </b>from your <b>Downloads </b>folder in File Explorer</li>
 
 
+
 <img src="files/Screenshot-From-2025-09-02-00-08-05.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 480px; height: 360px;"><li><b>Important</b>: Select the checkbox for <b>Add "Open with Code" action to Windows Explorer directory context menu</b>, this allows you to open folders in VS Code directly from File Explorer</li>
 
+
 <li>Complete the remaining <b>VS Code Setup </b>steps with <b>default </b>options</li>
+
 <li>Open <b>Visual Studio Code </b>from the Start Menu</li>
+
 <li>Select the <b>Extensions </b>icon on the left sidebar, then search for <b>Python </b>in the<b> Extensions Marketplace</b></li>
+
 <li>Install the <b>Python </b>extension pack</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-20-22.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 400px;"><li><span>Search for </span><b>Jupyter</b><span> in the </span><b>Extensions Marketplace</b><span>, then install the </span><b>Jupyter </b><span>extension pack</span></li>
+
 <img src="files/Screenshot-From-2025-09-02-00-31-18.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 400px;">
 
 
 </ol>
 <h2 id="header-5d4426bf-2b07-0ba8-cd0c-5b55c04210f7">Test Jupyter Notebooks</h2>
 <ol><li>Open <b>PowerShell </b>with the <b>Run</b>&#160;<b>as Administrator </b>option</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-38-42.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 400px;"><li>Enter the command <b>Set-ExecutionPolicy -Scope CurrentUser RemoteSigned</b>, this allows <b>VS Code</b> to use <b>Conda</b> environments</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-40-50.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 200px;"><li>Create a <b>CYBER 362 </b>folder to store assignments in File Explorer (Suggestion: <b>Documents/Cyber362</b>), open <b>VS Code</b> in this folder</li>
+
 <li>Create a temporary file named <b>test.py</b>&#160;in this folder, enter the text <b>print("Hello World!")</b>&#160;and save the file</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-53-31.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 900px; height: 180px;"><li>Select the <b>Run Python File </b>button</li>
+
 <li>If everything was installed successfully, a <b>Hello World! </b>message will appear in your terminal!</li>
+
 <img src="files/Screenshot-From-2025-09-02-00-57-21.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 720px; height: 250px;"><li>Now let's test <b>Jupyter </b>with&#160;<b>Conda</b>! Close your current terminal window, then select the <b>Python 3.13 (64-bit) </b>button at the bottom right of <b>VS Code</b></li>
+
 <li><span>Select the <b>base (3.13.5) Conda </b>environment, this will change the <b>Python Interpreter</b>&#160;that VS Code is using</span></li>
+
 <img src="files/Screenshot-From-2025-09-02-01-38-02.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 700px; height: 240px;"><li>Select <b>Terminal &gt; New Terminal</b>, then confirm that <b>conda activate base </b>appears in the new terminal window</li>
+
 <img src="files/Screenshot-From-2025-09-02-01-09-48.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 400px;"><li>Enter <b>conda install jupyter</b>&#160;to download all the necessary Python packages for using <b>Jupyter Notebooks</b></li>
-<img src="files/Screenshot-From-2025-09-02-01-19-01.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 400px;"><li>Create another temporary file named <b>test.ipynb</b>, this is the file extension for <b>Jupyter Notebooks</b></li>
+
+<img src="files/Screenshot-From-2025-09-02-01-19-01.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 400px;"><li>Enter <b>conda install numpy matplotlib pandas</b> to download additional Python packages for future assignments</li>
+<img src="files/Screenshot-From-2025-09-02-12-23-00_1.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 500px; height: 300px;"><li>Create another temporary file named <b>test.ipynb</b>, this is the file extension for <b>Jupyter Notebooks</b></li>
+
 <li>Select the <b>Select Kernel </b>button on the right side of your notebook, then select <b>Python Environments</b></li>
+
 <img src="files/Screenshot-From-2025-09-02-01-22-45.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 640px; height: 180px;"><img src="files/Screenshot-From-2025-09-02-01-25-34.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 800px; height: 200px;"><li>Select <b>base (Python 3.13.5) Conda Env</b></li>
+
 <img src="files/Screenshot-From-2025-09-02-01-27-17.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 900px; height: 180px;"><li>Select the <b>+ Code </b>button, then enter <b>print("Hello World!")</b>&#160;into the Jupyter Notebook cell</li>
+
 <img src="files/Screenshot-From-2025-09-02-01-28-39.png" loading="lazy" style="width: 700px; height: 180px;" data-border-radius="md" data-border="sm"><li>If everything was successfully installed, the message <b>Hello World! </b>will appear below!</li>
+
 <img src="files/Screenshot-From-2025-09-02-01-29-46.png" loading="lazy" data-border-radius="md" data-border="sm" style="width: 700px; height: 180px;"></ol>
 <h2 id="header-5c988fc7-634f-1f3e-0c46-43a7a90fe5a6"><p></p></h2>

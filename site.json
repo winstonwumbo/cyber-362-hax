@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1757021157,
+      "updated": 1757424913,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -545,6 +545,92 @@
         "hideInMenu": true,
         "locked": false,
         "readtime": 1
+      }
+    },
+    {
+      "id": "item-142acfd5-f889-483f-98d0-0e51714135e8",
+      "indent": 0,
+      "location": "pages/item-142acfd5-f889-483f-98d0-0e51714135e8/index.html",
+      "slug": "guides/genai-for-coding",
+      "order": 4,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "GenAI for Coding",
+      "description": "\n",
+      "metadata": {
+        "created": 1757421396,
+        "updated": 1757424913,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/setup-copilot-status-bar.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/setup-copilot-status-bar.png",
+            "url": "files/setup-copilot-status-bar.png",
+            "type": "image/png",
+            "name": "setup-copilot-status-bar.png",
+            "size": 53086
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/setup-copilot-sign-in.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/setup-copilot-sign-in.png",
+            "url": "files/setup-copilot-sign-in.png",
+            "type": "image/png",
+            "name": "setup-copilot-sign-in.png",
+            "size": 107627
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-23-47.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-23-47.png",
+            "url": "files/Screenshot-From-2025-09-09-09-23-47.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-09-09-23-47.png",
+            "size": 217291
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-24-26.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-24-26.png",
+            "url": "files/Screenshot-From-2025-09-09-09-24-26.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-09-09-24-26.png",
+            "size": 68094
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-28-06.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-28-06.png",
+            "url": "files/Screenshot-From-2025-09-09-09-28-06.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-09-09-28-06.png",
+            "size": 196455
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-29-27.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-29-27.png",
+            "url": "files/Screenshot-From-2025-09-09-09-29-27.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-09-09-29-27.png",
+            "size": 67743
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-31-03.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-31-03.png",
+            "url": "files/Screenshot-From-2025-09-09-09-31-03.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-09-09-31-03.png",
+            "size": 55723
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-34-26.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-09-09-34-26.png",
+            "url": "files/Screenshot-From-2025-09-09-09-34-26.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-09-09-34-26.png",
+            "size": 175434
+          }
+        ]
       }
     },
     {

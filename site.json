@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1757021157,
+      "updated": 1757421615,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -551,16 +551,20 @@
       "id": "item-142acfd5-f889-483f-98d0-0e51714135e8",
       "indent": 0,
       "location": "pages/item-142acfd5-f889-483f-98d0-0e51714135e8/index.html",
-      "slug": "guides/page",
+      "slug": "guides/genai-for-coding",
       "order": 4,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
-      "title": "Page",
-      "description": "",
+      "title": "GenAI for Coding",
+      "description": "\n",
       "metadata": {
         "created": 1757421396,
-        "updated": 1757421396,
-        "images": [],
-        "videos": []
+        "updated": 1757421615,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

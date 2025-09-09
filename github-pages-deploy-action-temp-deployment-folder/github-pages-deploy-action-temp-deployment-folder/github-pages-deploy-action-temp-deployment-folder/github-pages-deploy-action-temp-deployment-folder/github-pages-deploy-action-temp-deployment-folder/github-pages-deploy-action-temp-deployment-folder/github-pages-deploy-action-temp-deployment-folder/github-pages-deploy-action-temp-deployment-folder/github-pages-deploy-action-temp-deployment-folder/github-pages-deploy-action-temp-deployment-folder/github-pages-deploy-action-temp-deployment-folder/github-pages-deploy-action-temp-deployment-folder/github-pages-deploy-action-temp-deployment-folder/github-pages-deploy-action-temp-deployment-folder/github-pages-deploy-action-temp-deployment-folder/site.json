@@ -1,0 +1,166 @@
+{
+  "id": "859a1fb4-27fc-41fa-a724-4debd20351a1",
+  "title": "cyber-362-hax",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "cyber-362-hax",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true
+      },
+      "created": 1756409834,
+      "updated": 1756418425,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "polaris-flex-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+      "name": "Polaris - Flex",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "variables": {
+        "icon": "av:library-add",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "11.0.0",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-acc21c20-6a64-4edf-a1d1-81696c139528",
+      "indent": 0,
+      "location": "pages/item-acc21c20-6a64-4edf-a1d1-81696c139528/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome",
+      "description": "Welcome to the HAXsite for CYBER 362, Section 002! This course teaches fundamental data-driven cybersecurity analytics skills with Python, Splunk, and other tools. In particular, students will learn ",
+      "metadata": {
+        "created": 1756409833,
+        "updated": 1756416159,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "indent": 0,
+      "location": "pages/item-e3d19518-66d2-4c00-a11b-94970739034e/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Guides",
+      "description": "Topics\n",
+      "metadata": {
+        "created": 1756415920,
+        "updated": 1756416124,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-2b8e35af-e79e-434b-9f18-c55e2a22e4d0",
+      "indent": 0,
+      "location": "pages/item-2b8e35af-e79e-434b-9f18-c55e2a22e4d0/index.html",
+      "slug": "page/page",
+      "order": 0,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "CLI Crash Course",
+      "description": "\n",
+      "metadata": {
+        "created": 1756418137,
+        "updated": 1756418231,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-92d0d9c7-6396-4184-8e40-aaada5a7d7f3",
+      "indent": 0,
+      "location": "pages/item-92d0d9c7-6396-4184-8e40-aaada5a7d7f3/index.html",
+      "slug": "page/page-1",
+      "order": 1,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "Windows Setup",
+      "description": "\nHeading\n",
+      "metadata": {
+        "created": 1756418243,
+        "updated": 1756418310,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-f93328fb-ebbb-4d3a-a9c7-4cd7d1616ae7",
+      "indent": 0,
+      "location": "pages/item-f93328fb-ebbb-4d3a-a9c7-4cd7d1616ae7/index.html",
+      "slug": "page/page-2",
+      "order": 2,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "macOS Setup",
+      "description": "\n",
+      "metadata": {
+        "created": 1756418331,
+        "updated": 1756418359,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-cf87fc3b-5824-4c31-9521-20e4417729c9",
+      "indent": 0,
+      "location": "pages/item-cf87fc3b-5824-4c31-9521-20e4417729c9/index.html",
+      "slug": "page/page-3",
+      "order": 3,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "Linux Setup",
+      "description": "\n",
+      "metadata": {
+        "created": 1756418402,
+        "updated": 1756418425,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    }
+  ]
+}

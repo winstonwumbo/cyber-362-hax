@@ -766,7 +766,17 @@
         "created": 1758542757,
         "updated": 1758542757,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week4SlideDeck.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week4SlideDeck.md",
+            "url": "files/week4SlideDeck.md",
+            "type": "text/markdown",
+            "name": "week4SlideDeck.md",
+            "size": 15736
+          }
+        ]
       }
     }
   ]

@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1758542672,
+      "updated": 1758542726,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -701,12 +701,12 @@
       "order": 0,
       "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
       "title": "Page",
-      "description": "",
+      "description": "\n\n",
       "metadata": {
         "created": 1758542617,
-        "updated": 1758542617,
-        "images": [],
-        "videos": [],
+        "updated": 1758542726,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/Users/djf3/Desktop/cyber-362-hax/files/week2SlideDeck.md",
@@ -716,7 +716,11 @@
             "name": "week2SlideDeck.md",
             "size": 11713
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

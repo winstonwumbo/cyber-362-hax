@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1757425031,
+      "updated": 1758542672,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -678,15 +678,19 @@
       "indent": 0,
       "location": "pages/item-4741e563-f80b-4464-920b-5f0b71be9578/index.html",
       "slug": "page",
-      "order": 1,
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Lectures",
+      "description": "\n\n",
       "metadata": {
         "created": 1758542604,
-        "updated": 1758542604,
-        "images": [],
-        "videos": []
+        "updated": 1758542672,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

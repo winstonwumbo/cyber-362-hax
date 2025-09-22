@@ -688,6 +688,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-c98a3bf3-10d5-42cd-b052-ce428c6d37bc",
+      "indent": 0,
+      "location": "pages/item-c98a3bf3-10d5-42cd-b052-ce428c6d37bc/index.html",
+      "slug": "page/page",
+      "order": 0,
+      "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1758542617,
+        "updated": 1758542617,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

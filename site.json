@@ -796,7 +796,17 @@
         "created": 1758552120,
         "updated": 1758552120,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week5SlideDeck.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week5SlideDeck.md",
+            "url": "files/week5SlideDeck.md",
+            "type": "text/markdown",
+            "name": "week5SlideDeck.md",
+            "size": 13611
+          }
+        ]
       }
     }
   ]

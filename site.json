@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1758542726,
+      "updated": 1758542748,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -700,11 +700,11 @@
       "slug": "page/page",
       "order": 0,
       "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
-      "title": "Page",
+      "title": "Week 2 Deck",
       "description": "\n\n",
       "metadata": {
         "created": 1758542617,
-        "updated": 1758542726,
+        "updated": 1758542747,
         "images": {},
         "videos": {},
         "files": [

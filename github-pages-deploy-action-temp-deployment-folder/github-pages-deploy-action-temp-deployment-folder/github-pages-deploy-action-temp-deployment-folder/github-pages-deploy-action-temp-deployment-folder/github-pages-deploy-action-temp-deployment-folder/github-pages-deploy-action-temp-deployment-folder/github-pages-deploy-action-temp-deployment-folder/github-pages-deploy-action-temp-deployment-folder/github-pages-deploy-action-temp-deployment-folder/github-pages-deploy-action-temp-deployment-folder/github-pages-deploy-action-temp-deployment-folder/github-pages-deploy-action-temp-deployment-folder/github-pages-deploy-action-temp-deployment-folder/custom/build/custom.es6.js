@@ -1,1 +1,4 @@
-// custom comment script here
+import{css as m,html as r}from"@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";import{PolarisFlexTheme as u}from"@haxtheweb/polaris-theme/lib/polaris-flex-theme.js";import"@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";var n=Object.freeze,d=Object.defineProperty,e=(t,p)=>n(d(t,"raw",{value:n(t.slice())}));/**
+* Copyright 2025 winstonwumbo
+* @license Apache-2.0, see License.md for full text.
+*/var o,s,a,c,i;class l extends u{static get styles(){return[super.styles,m(o||(o=e(["\n        :host {\n          display: block;\n          --media-banner-height: 300px;\n        }\n      "])))]}renderHeaderSlot(){return r(s||(s=e([""])))}renderFooterContactInformation(){return r(a||(a=e([""])))}renderFooterSecondarySlot(){return r(c||(c=e([""])))}renderFooterPrimarySlot(){return r(i||(i=e([""])))}static get tag(){return"custom-cyber-362-hax-theme"}constructor(){super()}}customElements.define(l.tag,l);

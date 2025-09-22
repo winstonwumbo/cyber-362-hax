@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1758542867,
+      "updated": 1758552169,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -775,6 +775,36 @@
             "type": "text/markdown",
             "name": "week4SlideDeck.md",
             "size": 15736
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-ba0c54f3-3eba-4082-b0d1-3be303f591ee",
+      "indent": 0,
+      "location": "pages/item-ba0c54f3-3eba-4082-b0d1-3be303f591ee/index.html",
+      "slug": "page/page-3",
+      "order": 3,
+      "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
+      "title": "Week 5 Deck - Python Overview",
+      "description": "\n\n",
+      "metadata": {
+        "created": 1758552120,
+        "updated": 1758552169,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week5SlideDeck.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week5SlideDeck.md",
+            "url": "files/week5SlideDeck.md",
+            "type": "text/markdown",
+            "name": "week5SlideDeck.md",
+            "size": 13611
           }
         ],
         "published": true,

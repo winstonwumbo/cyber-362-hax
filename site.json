@@ -828,6 +828,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-478aeabb-1632-4dd6-b372-b3869337fd38",
+      "indent": 0,
+      "location": "pages/item-478aeabb-1632-4dd6-b372-b3869337fd38/index.html",
+      "slug": "page-2",
+      "order": 4,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1759854273,
+        "updated": 1759854273,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

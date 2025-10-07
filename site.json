@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1758552169,
+      "updated": 1759854800,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -47,7 +47,7 @@
       "description": "Welcome to the HAXsite for CYBER 362, Section 002! This course teaches fundamental data-driven cybersecurity analytics skills with Python, Splunk, and other tools. In particular, students will learn ",
       "metadata": {
         "created": 1756409833,
-        "updated": 1756837579,
+        "updated": 1759854297,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -64,7 +64,8 @@
             "size": 687875
           }
         ],
-        "image": "files/data-analytics.jpg"
+        "image": "files/data-analytics.jpg",
+        "status": ""
       }
     },
     {
@@ -78,18 +79,19 @@
       "description": "Topics\n",
       "metadata": {
         "created": 1756415920,
-        "updated": 1757425031,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
       "id": "item-2b8e35af-e79e-434b-9f18-c55e2a22e4d0",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-2b8e35af-e79e-434b-9f18-c55e2a22e4d0/index.html",
       "slug": "guides/cli",
       "order": 0,
@@ -98,18 +100,19 @@
       "description": "\n",
       "metadata": {
         "created": 1756418137,
-        "updated": 1756804444,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 4
+        "readtime": 4,
+        "status": ""
       }
     },
     {
       "id": "item-92d0d9c7-6396-4184-8e40-aaada5a7d7f3",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-92d0d9c7-6396-4184-8e40-aaada5a7d7f3/index.html",
       "slug": "guides/windows",
       "order": 1,
@@ -118,7 +121,7 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756418243,
-        "updated": 1757021157,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
@@ -334,12 +337,13 @@
             "name": "anaconda-path.png",
             "size": 65424
           }
-        ]
+        ],
+        "status": ""
       }
     },
     {
       "id": "item-f93328fb-ebbb-4d3a-a9c7-4cd7d1616ae7",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-f93328fb-ebbb-4d3a-a9c7-4cd7d1616ae7/index.html",
       "slug": "guides/macos",
       "order": 2,
@@ -348,7 +352,7 @@
       "description": "\n",
       "metadata": {
         "created": 1756418331,
-        "updated": 1756841246,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
@@ -524,12 +528,13 @@
             "name": "Screenshot-From-2025-09-02-12-23-00.png",
             "size": 45113
           }
-        ]
+        ],
+        "status": ""
       }
     },
     {
       "id": "item-cf87fc3b-5824-4c31-9521-20e4417729c9",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-cf87fc3b-5824-4c31-9521-20e4417729c9/index.html",
       "slug": "guides/linux",
       "order": 3,
@@ -538,18 +543,19 @@
       "description": "\n",
       "metadata": {
         "created": 1756418402,
-        "updated": 1756802219,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": false,
         "hideInMenu": true,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
       "id": "item-142acfd5-f889-483f-98d0-0e51714135e8",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-142acfd5-f889-483f-98d0-0e51714135e8/index.html",
       "slug": "guides/genai-for-coding",
       "order": 4,
@@ -558,7 +564,7 @@
       "description": "\n",
       "metadata": {
         "created": 1757421396,
-        "updated": 1757424913,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
@@ -630,7 +636,8 @@
             "name": "Screenshot-From-2025-09-09-09-34-26.png",
             "size": 175434
           }
-        ]
+        ],
+        "status": ""
       }
     },
     {
@@ -638,19 +645,20 @@
       "indent": 0,
       "location": "pages/item-b8f813b3-0167-4e67-96b2-7d06912541cd/index.html",
       "slug": "about",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "About HAX",
       "description": "\n",
       "metadata": {
         "created": 1756493119,
-        "updated": 1756497166,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -664,13 +672,14 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756493438,
-        "updated": 1756760266,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 3
+        "readtime": 3,
+        "status": ""
       }
     },
     {
@@ -678,24 +687,25 @@
       "indent": 0,
       "location": "pages/item-4741e563-f80b-4464-920b-5f0b71be9578/index.html",
       "slug": "page",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Lectures",
       "description": "\n\n",
       "metadata": {
         "created": 1758542604,
-        "updated": 1758542672,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
       "id": "item-c98a3bf3-10d5-42cd-b052-ce428c6d37bc",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-c98a3bf3-10d5-42cd-b052-ce428c6d37bc/index.html",
       "slug": "page/page",
       "order": 0,
@@ -704,7 +714,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542617,
-        "updated": 1758542747,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "files": [
@@ -720,12 +730,13 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
       "id": "item-dd01eb12-add2-465a-8fb1-f42beb411f58",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-dd01eb12-add2-465a-8fb1-f42beb411f58/index.html",
       "slug": "page/page-1",
       "order": 1,
@@ -734,7 +745,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542624,
-        "updated": 1758542811,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "files": [
@@ -750,12 +761,13 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
       "id": "item-f3dbbaf1-e358-414a-8b09-48cb91983c52",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-f3dbbaf1-e358-414a-8b09-48cb91983c52/index.html",
       "slug": "page/page-2",
       "order": 2,
@@ -764,7 +776,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542757,
-        "updated": 1758542867,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "files": [
@@ -780,12 +792,13 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
       "id": "item-ba0c54f3-3eba-4082-b0d1-3be303f591ee",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-ba0c54f3-3eba-4082-b0d1-3be303f591ee/index.html",
       "slug": "page/page-3",
       "order": 3,
@@ -794,7 +807,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758552120,
-        "updated": 1758552169,
+        "updated": 1759854297,
         "images": {},
         "videos": {},
         "files": [
@@ -810,7 +823,102 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c2d525f1-68ff-42ce-aa4b-18a55d15ef6a",
+      "indent": 0,
+      "location": "pages/item-c2d525f1-68ff-42ce-aa4b-18a55d15ef6a/index.html",
+      "slug": "page-1",
+      "order": 4,
+      "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
+      "title": "Week 6 - Agentic AI",
+      "description": "\n",
+      "metadata": {
+        "created": 1759854252,
+        "updated": 1759854638,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forWritten-SHORT.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forWritten-SHORT.md",
+            "url": "files/week6SlideDeck-forWritten-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forWritten-SHORT.md",
+            "size": 19126
+          },
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forWritten-SHORT_1.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forWritten-SHORT.md",
+            "url": "files/week6SlideDeck-forWritten-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forWritten-SHORT.md",
+            "size": 19126
+          },
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forWritten-SHORT_2.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forWritten-SHORT.md",
+            "url": "files/week6SlideDeck-forWritten-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forWritten-SHORT.md",
+            "size": 19126
+          }
+        ]
+      }
+    },
+    {
+      "id": "item-478aeabb-1632-4dd6-b372-b3869337fd38",
+      "indent": 0,
+      "location": "pages/item-478aeabb-1632-4dd6-b372-b3869337fd38/index.html",
+      "slug": "page-2",
+      "order": 5,
+      "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
+      "title": "Week 7 - Data Structures, Data Viz, and Stats",
+      "description": "\n",
+      "metadata": {
+        "created": 1759854273,
+        "updated": 1759854800,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT.md",
+            "url": "files/week6SlideDeck-forLab-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forLab-SHORT.md",
+            "size": 26031
+          },
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT_1.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT.md",
+            "url": "files/week6SlideDeck-forLab-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forLab-SHORT.md",
+            "size": 26031
+          },
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT_2.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT.md",
+            "url": "files/week6SlideDeck-forLab-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forLab-SHORT.md",
+            "size": 26031
+          }
+        ]
       }
     }
   ]

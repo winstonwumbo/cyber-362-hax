@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1759854638,
+      "updated": 1759854697,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -876,21 +876,23 @@
     },
     {
       "id": "item-478aeabb-1632-4dd6-b372-b3869337fd38",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-478aeabb-1632-4dd6-b372-b3869337fd38/index.html",
       "slug": "page-2",
       "order": 5,
       "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
-      "title": "Page",
-      "description": "",
+      "title": "Week 7 - Data Structures, Data Viz, and Stats",
+      "description": "\n",
       "metadata": {
         "created": 1759854273,
-        "updated": 1759854297,
-        "images": [],
-        "videos": [],
+        "updated": 1759854697,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]

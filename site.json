@@ -892,7 +892,17 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week6SlideDeck-forLab-SHORT.md",
+            "url": "files/week6SlideDeck-forLab-SHORT.md",
+            "type": "text/markdown",
+            "name": "week6SlideDeck-forLab-SHORT.md",
+            "size": 26031
+          }
+        ]
       }
     }
   ]

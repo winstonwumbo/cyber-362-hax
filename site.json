@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1759854297,
+      "updated": 1759854368,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -829,21 +829,23 @@
     },
     {
       "id": "item-c2d525f1-68ff-42ce-aa4b-18a55d15ef6a",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c2d525f1-68ff-42ce-aa4b-18a55d15ef6a/index.html",
       "slug": "page-1",
       "order": 4,
       "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
-      "title": "Page",
-      "description": "",
+      "title": "Week 6 - Agentic AI",
+      "description": "\n",
       "metadata": {
         "created": 1759854252,
-        "updated": 1759854297,
-        "images": [],
-        "videos": [],
+        "updated": 1759854368,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

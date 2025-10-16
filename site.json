@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1759854800,
+      "updated": 1760640865,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -47,7 +47,7 @@
       "description": "Welcome to the HAXsite for CYBER 362, Section 002! This course teaches fundamental data-driven cybersecurity analytics skills with Python, Splunk, and other tools. In particular, students will learn ",
       "metadata": {
         "created": 1756409833,
-        "updated": 1759854297,
+        "updated": 1760640864,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -79,7 +79,7 @@
       "description": "Topics\n",
       "metadata": {
         "created": 1756415920,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -100,7 +100,7 @@
       "description": "\n",
       "metadata": {
         "created": 1756418137,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -121,7 +121,7 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756418243,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -352,7 +352,7 @@
       "description": "\n",
       "metadata": {
         "created": 1756418331,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -543,7 +543,7 @@
       "description": "\n",
       "metadata": {
         "created": 1756418402,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": false,
@@ -564,7 +564,7 @@
       "description": "\n",
       "metadata": {
         "created": 1757421396,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -651,7 +651,7 @@
       "description": "\n",
       "metadata": {
         "created": 1756493119,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -672,7 +672,7 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756493438,
-        "updated": 1759854297,
+        "updated": 1760640864,
         "images": {},
         "videos": {},
         "published": true,
@@ -693,7 +693,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542604,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -714,7 +714,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542617,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "files": [
@@ -745,7 +745,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542624,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "files": [
@@ -776,7 +776,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758542757,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "files": [
@@ -807,7 +807,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1758552120,
-        "updated": 1759854297,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "files": [
@@ -829,7 +829,7 @@
     },
     {
       "id": "item-c2d525f1-68ff-42ce-aa4b-18a55d15ef6a",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-c2d525f1-68ff-42ce-aa4b-18a55d15ef6a/index.html",
       "slug": "page-1",
       "order": 4,
@@ -838,7 +838,7 @@
       "description": "\n",
       "metadata": {
         "created": 1759854252,
-        "updated": 1759854638,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -876,7 +876,7 @@
     },
     {
       "id": "item-478aeabb-1632-4dd6-b372-b3869337fd38",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-478aeabb-1632-4dd6-b372-b3869337fd38/index.html",
       "slug": "page-2",
       "order": 5,
@@ -885,7 +885,7 @@
       "description": "\n",
       "metadata": {
         "created": 1759854273,
-        "updated": 1759854800,
+        "updated": 1760640865,
         "images": {},
         "videos": {},
         "published": true,
@@ -919,6 +919,37 @@
             "size": 26031
           }
         ]
+      }
+    },
+    {
+      "id": "item-bd4aba1c-257d-4626-b1c3-e30195d1fa11",
+      "indent": 1,
+      "location": "pages/item-bd4aba1c-257d-4626-b1c3-e30195d1fa11/index.html",
+      "slug": "page-3",
+      "order": 6,
+      "parent": "item-4741e563-f80b-4464-920b-5f0b71be9578",
+      "title": "Week 8 - Networking and Wireshark",
+      "description": "\n",
+      "metadata": {
+        "created": 1760640770,
+        "updated": 1760640865,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week8SlideDeck.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week8SlideDeck.md",
+            "url": "files/week8SlideDeck.md",
+            "type": "text/markdown",
+            "name": "week8SlideDeck.md",
+            "size": 23464
+          }
+        ],
+        "status": ""
       }
     }
   ]

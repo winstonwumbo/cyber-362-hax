@@ -938,7 +938,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/Users/djf3/Desktop/cyber-362-hax/files/week8SlideDeck.md",
+            "fullUrl": "//Users/djf3/Desktop/cyber-362-hax/files/week8SlideDeck.md",
+            "url": "files/week8SlideDeck.md",
+            "type": "text/markdown",
+            "name": "week8SlideDeck.md",
+            "size": 23464
+          }
+        ]
       }
     }
   ]

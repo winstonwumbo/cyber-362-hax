@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1759854800,
+      "updated": 1760640789,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -926,15 +926,19 @@
       "indent": 0,
       "location": "pages/item-bd4aba1c-257d-4626-b1c3-e30195d1fa11/index.html",
       "slug": "page-3",
-      "order": 4,
+      "order": 5,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Week 8 - Networking and Wireshark",
+      "description": "\n",
       "metadata": {
         "created": 1760640770,
-        "updated": 1760640770,
-        "images": [],
-        "videos": []
+        "updated": 1760640789,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

@@ -920,6 +920,22 @@
           }
         ]
       }
+    },
+    {
+      "id": "item-bd4aba1c-257d-4626-b1c3-e30195d1fa11",
+      "indent": 0,
+      "location": "pages/item-bd4aba1c-257d-4626-b1c3-e30195d1fa11/index.html",
+      "slug": "page-3",
+      "order": 4,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1760640770,
+        "updated": 1760640770,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

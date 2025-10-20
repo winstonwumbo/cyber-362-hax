@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1760640865,
+      "updated": 1760940850,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -644,16 +644,20 @@
       "id": "item-fbc7f95f-7b49-45c7-86a9-a8289f81f623",
       "indent": 0,
       "location": "pages/item-fbc7f95f-7b49-45c7-86a9-a8289f81f623/index.html",
-      "slug": "guides/page",
+      "slug": "guides/wireshark",
       "order": 5,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
-      "title": "Page",
-      "description": "",
+      "title": "Wireshark",
+      "description": "This article serves as a gentle introduction to Wireshark for Lab 5. Network-traffic-analysis1.pcap&#160;will serve as the example file for this tutorial.\nWireshark Interface\nWireshark&#8217;s main i",
       "metadata": {
         "created": 1760940421,
-        "updated": 1760940421,
-        "images": [],
-        "videos": []
+        "updated": 1760940850,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

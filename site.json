@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1760940850,
+      "updated": 1760940900,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -648,10 +648,10 @@
       "order": 5,
       "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
       "title": "Wireshark",
-      "description": "This article serves as a gentle introduction to Wireshark for Lab 5. Network-traffic-analysis1.pcap&#160;will serve as the example file for this tutorial.\nWireshark Interface\nWireshark&#8217;s main i",
+      "description": "This article serves as a gentle introduction to Wireshark for Lab 5. Network-traffic-analysis1.pcap will serve as the example file for this tutorial.\nWireshark Interface\nWireshark’s main i",
       "metadata": {
         "created": 1760940421,
-        "updated": 1760940850,
+        "updated": 1760940900,
         "images": {},
         "videos": {},
         "published": true,

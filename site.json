@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1760941720,
+      "updated": 1761188326,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -79,7 +79,7 @@
       "description": "Topics\n",
       "metadata": {
         "created": 1756415920,
-        "updated": 1760941720,
+        "updated": 1761188326,
         "images": {},
         "videos": {},
         "published": true,
@@ -658,6 +658,52 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 4
+      }
+    },
+    {
+      "id": "item-df30d2be-6eec-40b7-8c46-fa76738c004c",
+      "indent": 0,
+      "location": "pages/item-df30d2be-6eec-40b7-8c46-fa76738c004c/index.html",
+      "slug": "guides/splunk",
+      "order": 6,
+      "parent": "item-e3d19518-66d2-4c00-a11b-94970739034e",
+      "title": "Splunk",
+      "description": "\n",
+      "metadata": {
+        "created": 1761161995,
+        "updated": 1761188293,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2,
+        "files": [
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/image.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/image.png",
+            "url": "files/image.png",
+            "type": "image/png",
+            "name": "image.png",
+            "size": 150143
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/image_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/image_1.png",
+            "url": "files/image_1.png",
+            "type": "image/png",
+            "name": "image_1.png",
+            "size": 326380
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/image_2.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/image_2.png",
+            "url": "files/image_2.png",
+            "type": "image/png",
+            "name": "image_2.png",
+            "size": 51232
+          }
+        ]
       }
     },
     {

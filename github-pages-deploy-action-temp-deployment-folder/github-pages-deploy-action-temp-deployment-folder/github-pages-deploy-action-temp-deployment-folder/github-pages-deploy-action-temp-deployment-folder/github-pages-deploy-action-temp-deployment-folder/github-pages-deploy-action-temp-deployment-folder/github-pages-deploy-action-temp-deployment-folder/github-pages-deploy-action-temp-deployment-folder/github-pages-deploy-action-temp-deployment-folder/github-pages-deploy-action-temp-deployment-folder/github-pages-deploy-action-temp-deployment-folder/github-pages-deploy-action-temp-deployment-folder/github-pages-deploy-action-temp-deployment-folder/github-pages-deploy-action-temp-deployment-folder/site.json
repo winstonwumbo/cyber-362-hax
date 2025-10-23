@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1756502300,
+      "updated": 1756826190,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -47,7 +47,7 @@
       "description": "Welcome to the HAXsite for CYBER 362, Section 002! This course teaches fundamental data-driven cybersecurity analytics skills with Python, Splunk, and other tools. In particular, students will learn ",
       "metadata": {
         "created": 1756409833,
-        "updated": 1756493339,
+        "updated": 1756759420,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -78,7 +78,7 @@
       "description": "Topics\n",
       "metadata": {
         "created": 1756415920,
-        "updated": 1756493518,
+        "updated": 1756802253,
         "images": {},
         "videos": {},
         "published": true,
@@ -98,13 +98,13 @@
       "description": "\n",
       "metadata": {
         "created": 1756418137,
-        "updated": 1756421806,
+        "updated": 1756804444,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 4
       }
     },
     {
@@ -118,13 +118,13 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756418243,
-        "updated": 1756500390,
+        "updated": 1756791558,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1,
+        "readtime": 2,
         "files": [
           {
             "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-08-29-16-34-16.png",
@@ -133,6 +133,190 @@
             "type": "image/png",
             "name": "Screenshot-From-2025-08-29-16-34-16.png",
             "size": 33353
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-04-26.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-04-26.png",
+            "url": "files/Screenshot-From-2025-09-01-17-04-26.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-17-04-26.png",
+            "size": 208292
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-11-06.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-11-06.png",
+            "url": "files/Screenshot-From-2025-09-01-17-11-06.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-17-11-06.png",
+            "size": 22866
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-23-24.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-23-24.png",
+            "url": "files/Screenshot-From-2025-09-01-17-23-24.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-17-23-24.png",
+            "size": 115530
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-51-18.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-51-18.png",
+            "url": "files/Screenshot-From-2025-09-01-17-51-18.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-17-51-18.png",
+            "size": 51897
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-18-13-29.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-18-13-29.png",
+            "url": "files/Screenshot-From-2025-09-01-18-13-29.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-18-13-29.png",
+            "size": 217006
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-19-22-30.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-19-22-30.png",
+            "url": "files/Screenshot-From-2025-09-01-19-22-30.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-19-22-30.png",
+            "size": 16447
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-08-05.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-08-05.png",
+            "url": "files/Screenshot-From-2025-09-02-00-08-05.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-08-05.png",
+            "size": 54643
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-20-22.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-20-22.png",
+            "url": "files/Screenshot-From-2025-09-02-00-20-22.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-20-22.png",
+            "size": 180434
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-31-18.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-31-18.png",
+            "url": "files/Screenshot-From-2025-09-02-00-31-18.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-31-18.png",
+            "size": 163786
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-38-42.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-38-42.png",
+            "url": "files/Screenshot-From-2025-09-02-00-38-42.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-38-42.png",
+            "size": 68299
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-40-50.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-40-50.png",
+            "url": "files/Screenshot-From-2025-09-02-00-40-50.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-40-50.png",
+            "size": 75696
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-53-31.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-53-31.png",
+            "url": "files/Screenshot-From-2025-09-02-00-53-31.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-53-31.png",
+            "size": 27013
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-57-21.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-57-21.png",
+            "url": "files/Screenshot-From-2025-09-02-00-57-21.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-57-21.png",
+            "size": 56793
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-09-48.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-09-48.png",
+            "url": "files/Screenshot-From-2025-09-02-01-09-48.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-09-48.png",
+            "size": 57168
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-18-19.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-18-19.png",
+            "url": "files/Screenshot-From-2025-09-02-01-18-19.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-18-19.png",
+            "size": 132988
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-19-01.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-19-01.png",
+            "url": "files/Screenshot-From-2025-09-02-01-19-01.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-19-01.png",
+            "size": 123966
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-24-36.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-24-36.png",
+            "url": "files/Screenshot-From-2025-09-02-01-24-36.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-24-36.png",
+            "size": 35980
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-22-45.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-22-45.png",
+            "url": "files/Screenshot-From-2025-09-02-01-22-45.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-22-45.png",
+            "size": 37718
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-25-34.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-25-34.png",
+            "url": "files/Screenshot-From-2025-09-02-01-25-34.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-25-34.png",
+            "size": 35863
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-27-17.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-27-17.png",
+            "url": "files/Screenshot-From-2025-09-02-01-27-17.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-27-17.png",
+            "size": 43565
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-28-39.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-28-39.png",
+            "url": "files/Screenshot-From-2025-09-02-01-28-39.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-28-39.png",
+            "size": 32042
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-29-46.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-29-46.png",
+            "url": "files/Screenshot-From-2025-09-02-01-29-46.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-29-46.png",
+            "size": 30297
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-38-02.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-38-02.png",
+            "url": "files/Screenshot-From-2025-09-02-01-38-02.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-38-02.png",
+            "size": 53166
           }
         ]
       }
@@ -148,13 +332,175 @@
       "description": "\n",
       "metadata": {
         "created": 1756418331,
-        "updated": 1756421867,
+        "updated": 1756826190,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 2,
+        "files": [
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-18-47.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-18-47.png",
+            "url": "files/Screenshot-From-2025-09-02-10-18-47.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-10-18-47.png",
+            "size": 31971
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/mac_installer_07_applications.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/mac_installer_07_applications.png",
+            "url": "files/mac_installer_07_applications.png",
+            "type": "image/png",
+            "name": "mac_installer_07_applications.png",
+            "size": 148826
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-28-24.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-28-24.png",
+            "url": "files/Screenshot-From-2025-09-02-10-28-24.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-10-28-24.png",
+            "size": 75336
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-35-02.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-35-02.png",
+            "url": "files/Screenshot-From-2025-09-02-10-35-02.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-10-35-02.png",
+            "size": 69911
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-23-24_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-01-17-23-24_1.png",
+            "url": "files/Screenshot-From-2025-09-01-17-23-24_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-01-17-23-24_1.png",
+            "size": 115530
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-47-04.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-47-04.png",
+            "url": "files/Screenshot-From-2025-09-02-10-47-04.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-10-47-04.png",
+            "size": 41301
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-51-55.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-51-55.png",
+            "url": "files/Screenshot-From-2025-09-02-10-51-55.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-10-51-55.png",
+            "size": 82002
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-58-44.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-10-58-44.png",
+            "url": "files/Screenshot-From-2025-09-02-10-58-44.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-10-58-44.png",
+            "size": 8424
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-20-22_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-20-22_1.png",
+            "url": "files/Screenshot-From-2025-09-02-00-20-22_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-20-22_1.png",
+            "size": 180434
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-31-18_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-31-18_1.png",
+            "url": "files/Screenshot-From-2025-09-02-00-31-18_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-31-18_1.png",
+            "size": 163786
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-53-31_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-53-31_1.png",
+            "url": "files/Screenshot-From-2025-09-02-00-53-31_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-53-31_1.png",
+            "size": 27013
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-57-21_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-00-57-21_1.png",
+            "url": "files/Screenshot-From-2025-09-02-00-57-21_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-00-57-21_1.png",
+            "size": 56793
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-38-02_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-38-02_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-38-02_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-38-02_1.png",
+            "size": 53166
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-09-48_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-09-48_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-09-48_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-09-48_1.png",
+            "size": 57168
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-19-01_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-19-01_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-19-01_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-19-01_1.png",
+            "size": 123966
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-22-45_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-22-45_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-22-45_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-22-45_1.png",
+            "size": 37718
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-25-34_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-25-34_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-25-34_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-25-34_1.png",
+            "size": 35863
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-27-17_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-27-17_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-27-17_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-27-17_1.png",
+            "size": 43565
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-28-39_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-28-39_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-28-39_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-28-39_1.png",
+            "size": 32042
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-29-46_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/Screenshot-From-2025-09-02-01-29-46_1.png",
+            "url": "files/Screenshot-From-2025-09-02-01-29-46_1.png",
+            "type": "image/png",
+            "name": "Screenshot-From-2025-09-02-01-29-46_1.png",
+            "size": 30297
+          }
+        ]
       }
     },
     {
@@ -168,11 +514,11 @@
       "description": "\n",
       "metadata": {
         "created": 1756418402,
-        "updated": 1756421895,
+        "updated": 1756802219,
         "images": {},
         "videos": {},
-        "published": true,
-        "hideInMenu": false,
+        "published": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1
       }
@@ -208,13 +554,13 @@
       "description": "\nHeading\n",
       "metadata": {
         "created": 1756493438,
-        "updated": 1756502300,
+        "updated": 1756760266,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 3
       }
     }
   ]

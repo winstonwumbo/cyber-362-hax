@@ -694,6 +694,14 @@
             "type": "image/png",
             "name": "image_1.png",
             "size": 326380
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/cyber-362-hax/files/image_2.png",
+            "fullUrl": "//var/home/ruyu/Workspace/cyber-362-hax/files/image_2.png",
+            "url": "files/image_2.png",
+            "type": "image/png",
+            "name": "image_2.png",
+            "size": 51232
           }
         ]
       }

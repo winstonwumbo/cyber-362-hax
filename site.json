@@ -1017,6 +1017,22 @@
         ],
         "status": ""
       }
+    },
+    {
+      "id": "item-8d257ed7-224d-43d2-b47f-3e34ad5eff7d",
+      "indent": 0,
+      "location": "pages/item-8d257ed7-224d-43d2-b47f-3e34ad5eff7d/index.html",
+      "slug": "page-4",
+      "order": 4,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1761583941,
+        "updated": 1761583941,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1756409834,
-      "updated": 1761188326,
+      "updated": 1761583960,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1023,15 +1023,19 @@
       "indent": 0,
       "location": "pages/item-8d257ed7-224d-43d2-b47f-3e34ad5eff7d/index.html",
       "slug": "page-4",
-      "order": 4,
+      "order": 5,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Weeks 9 and 10 - Splunk",
+      "description": "\n",
       "metadata": {
         "created": 1761583941,
-        "updated": 1761583941,
-        "images": [],
-        "videos": []
+        "updated": 1761583960,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
